@@ -10,6 +10,8 @@ def scrape(article_url):
     page = requests.get(article_url)
     soup = BeautifulSoup(page.content, "html.parser")
 
-    content = soup.find(id="detalleAviso").text
+    type = soup.find(id="tituloDetalleAviso")
+    type = type.find("h1").text
+    content = soup.find(id="cuerpoDetalleAviso").text
 
-    return content
+    return type, content
