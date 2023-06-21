@@ -1,9 +1,4 @@
-import io
-import os
-
-import requests
 import tiktoken
-from PyPDF2 import PdfReader
 
 
 def chop(
