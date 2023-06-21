@@ -46,5 +46,6 @@ class BoletinObject(object):
         self.date = date
         self.id = id
         self.url = f"{BASE_URL}{str(self.id)}/{self.date.strftime('%Y%m%d')}"
-        self.content = ''
-        self.summary = ''
+        self.type = None
+        self.content = None
+        self.summary = None
