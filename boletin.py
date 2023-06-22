@@ -49,3 +49,7 @@ class BoletinObject(object):
         self.type = None
         self.content = None
         self.summary = None
+        self.social = None
+        self.economic = None
+        self.sustainable = None
+        self.politic = None
