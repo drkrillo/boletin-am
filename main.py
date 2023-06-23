@@ -1,6 +1,7 @@
 from datetime import date
 from csv import writer
 import time
+import pandas as pd
 
 import boletin
 import scraper
@@ -10,7 +11,7 @@ import prompt
 from dotenv import load_dotenv
 load_dotenv()
 
-id = 288549
+id = max(pd.read_csv('data.csv').id.tolist())
 on = True
 
 while id <= 288648:
