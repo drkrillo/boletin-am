@@ -11,10 +11,17 @@ import prompt
 from dotenv import load_dotenv
 load_dotenv()
 
-id = max(pd.read_csv('data.csv').id.tolist())
+id = max(
+    pd.read_csv(
+        'data.csv', 
+        delimiter='|', 
+        encoding='latin_1'
+        ).id
+    .tolist()
+)
 on = True
 
-while id <= 288648:
+while on:
     article = boletin.BoletinObject(
         date=date.today(),
         id=id,
