@@ -10,10 +10,10 @@ import prompt
 from dotenv import load_dotenv
 load_dotenv()
 
-id = 288648 + 1
+id = 288549
 on = True
 
-while on:
+while id <= 288648:
     article = boletin.BoletinObject(
         date=date.today(),
         id=id,
