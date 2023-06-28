@@ -19,6 +19,7 @@ id = max(
         ).id
     .tolist()
 ) + 1
+
 on = True
 
 while on:
@@ -30,7 +31,7 @@ while on:
         article.type, article.content = scraper.scrape(article.url)
 
         chunks = preprocessing.chop(article.content)
-        social, economic, sustainable, politic, summary = prompt.summarize(chunks)
+        social, economic, sustainable, politic, citizen, worker, rights, score, summary = prompt.summarize(chunks)
         article.date = article.content[-11:].replace('\n','')
         article.summary = summary
 
@@ -44,10 +45,14 @@ while on:
             economic,
             sustainable,
             politic,
+            citizen,
+            worker,
+            rights,
+            score,
         ]
 
         print("******************")
-        print(social, economic, sustainable, politic)
+        print(social, economic, sustainable, politic, citizen, worker, rights, score)
         print(summary)
         
         with open('data.csv', 'a', newline='') as f_object:
