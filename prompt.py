@@ -63,8 +63,8 @@ def summarize(chunks):
             No debe incluirse la fecha de publicación ni que fue \
             publicada en el Boletín Oficial.
             El texto generado debe ser arreglado como una noticia, \
-            y deberá cumplir con todos los requisitos necesarios para su \
-            uso como tweet diario.
+            y su contenido debe ser de corto a moderado, dependiendo \
+            la cantidad de información importante.
 
             Usar el siguiente formato:
             Paso 1:{delimiter} <Si/No Paso 1>
@@ -138,8 +138,8 @@ def summarize(chunks):
             No debe incluirse la fecha de publicación ni que fue \
             publicada en el Boletín Oficial.
             El texto generado debe ser arreglado como una noticia, \
-            y deberá cumplir con todos los requisitos necesarios para su \
-            uso como tweet diario.
+            y su contenido debe ser de corto a moderado, dependiendo \
+            la cantidad de información importante.
 
             Usar el siguiente formato:
             Paso 1:{delimiter} <Si/No Paso 1>
