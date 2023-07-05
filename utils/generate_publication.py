@@ -2,9 +2,7 @@ from datetime import date
 import time
 import pandas as pd
 
-import scraper
-import preprocessing
-import prompt
+from utils import scraper, preprocessing, prompt
 
 from dotenv import load_dotenv
 load_dotenv()
