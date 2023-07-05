@@ -1,8 +1,11 @@
 import os
+from datetime import date
 
+from typing import Optional
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-from redis_om import get_redis_connection
+
+from redis_om import get_redis_connection, HashModel
 
 from dotenv import load_dotenv
 load_dotenv()
@@ -26,3 +29,12 @@ redis = get_redis_connection(
     password=PASSWORD,
     decode_responses=True,
 )
+
+class Publication(HashModel):
+    id: int
+    date: date
+    url: str
+    type: str
+    tags: Optional[list] = None
+    score: int
+
