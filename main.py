@@ -1,18 +1,20 @@
 import os
 from datetime import date
 
-from typing import Optional
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
 from redis_om import get_redis_connection, HashModel
+
+from utils.generate_publication import generate_publication
 
 from dotenv import load_dotenv
 load_dotenv()
 
 
 PASSWORD  = os.getenv('REDIS_USER_PASSWORD')
-
+HOST = os.getenv('REDIS_HOST')
+PORT = os.getenv('REDIS_PORT')
 
 app = FastAPI()
 
@@ -24,8 +26,8 @@ app.add_middleware(
 )
 
 redis = get_redis_connection(
-    host='redis-19817.c90.us-east-1-3.ec2.cloud.redislabs.com',
-    port=19817,
+    host=HOST,
+    port=PORT,
     password=PASSWORD,
     decode_responses=True,
 )
@@ -35,6 +37,18 @@ class Publication(HashModel):
     date: date
     url: str
     type: str
-    tags: Optional[list] = None
+    tags: list
     score: int
 
+    class Meta:
+        database = redis
+
+
+@app.get('/publication/{id}')
+def get_publication(id: int):
+    return Publication.get(id)
+
+@app.post('/publication/{id}')
+def post_publication(id: int):
+    publication = generate_publication(id)
+    return Publication.save()
