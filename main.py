@@ -1,10 +1,13 @@
 import os
-from datetime import date
+import json
+import datetime
+
+from typing import List
 
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
-from redis_om import get_redis_connection, HashModel
+from redis_om import get_redis_connection, JsonModel
 
 from utils.generate_publication import generate_publication
 
@@ -32,23 +35,46 @@ redis = get_redis_connection(
     decode_responses=True,
 )
 
-class Publication(HashModel):
+class Publication(JsonModel):
     id: int
-    date: date
+    date: datetime.date
     url: str
     type: str
-    tags: list
+    summary: str
+    tags: List
     score: int
 
     class Meta:
         database = redis
 
 
-@app.get('/publication/{id}')
-def get_publication(id: int):
-    return Publication.get(id)
+@app.get('/publications/')
+def get_all_publications():
+    return [format(pk) for pk in Publication.all_pks()]
 
 @app.post('/publication/{id}')
 def post_publication(id: int):
     publication = generate_publication(id)
-    return Publication.save()
+    print(publication['date'], type(publication['date']))
+    publication = Publication(
+        id=publication['id'],
+        date=publication['date'],
+        url=publication['url'],
+        type=publication['type'],
+        summary=publication['summary'],
+        tags=publication['tags'],
+        score=publication['score'],
+    )
+    return publication.save()
+
+def format(pk: str):
+    publication = Publication.get(pk)
+    return {
+        'id': publication.id,
+        'date': publication.date,
+        'url': publication.url,
+        'type': publication.type,
+        'summary': publication.summary,
+        'tags': publication.tags,
+        'score':publication.score
+    }
