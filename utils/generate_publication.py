@@ -1,6 +1,5 @@
-from datetime import date
-import time
-import pandas as pd
+import json
+import datetime
 
 from utils import scraper, preprocessing, prompt
 
@@ -11,19 +10,21 @@ load_dotenv()
 def generate_publication(id):
     url = f'https://www.boletinoficial.gob.ar/detalleAviso/primera/{id}/20230704'
     type, content = scraper.scrape(url)
-
+    print('Completed Scraping')
     chunks = preprocessing.chop(content)
+    print('Completed Preprocessing')
     tags, score, summary = prompt.summarize(chunks)
-    date = content[-11:].replace('\n','')
-
+    print('Completed Extraction')
+    date = preprocessing.transform_date(content[-11:].replace('\n',''))
     publication = {
-        id: id,
-        date: date,
-        url: url,
-        type: type,
-        summary: summary,
-        tags: tags,
-        score: score
+        'id': id,
+        'date': date,
+        'url': url,
+        'type': type,
+        'summary': summary,
+        'tags': tags,
+        'score': score
     }
-
+    print('Publicated Created')
+    print(publication)
     return publication
