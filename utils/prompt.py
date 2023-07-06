@@ -156,6 +156,8 @@ def summarize(chunks):
         """
         response = get_completion(prompt)
 
+    tags = []
+
     social, rest = response.split('\n', 1)
     social = int(social.split(delimiter)[1]
                  .replace('No', '0')
@@ -163,6 +165,8 @@ def summarize(chunks):
                  .replace('Si', '1')
                  .strip()
     )
+    if social == 1:
+        tags.append('social')
 
     economic, rest = rest.split('\n', 1)
     economic = int(economic.split(delimiter)[1]
@@ -171,6 +175,8 @@ def summarize(chunks):
                    .replace('Si', '1')
                    .strip()
     )
+    if economic == 1:
+        tags.append('economic')
 
     sustainable, rest = rest.split('\n', 1)
     sustainable = int(sustainable.split(delimiter)[1]
@@ -179,6 +185,8 @@ def summarize(chunks):
                       .replace('Si', '1')
                       .strip()
     )
+    if sustainable == 1:
+        tags.append('sustainable')
 
     politic, rest = rest.split('\n', 1)
     politic = int(politic.split(delimiter)[1]
@@ -187,6 +195,9 @@ def summarize(chunks):
                   .replace('Si', '1')
                   .strip()
     )
+    if politic == 1:
+        tags.append('politic')
+
     citizen, rest = rest.split('\n', 1)
     citizen = int(citizen.split(delimiter)[1]
                   .replace('No', '0')
@@ -194,6 +205,9 @@ def summarize(chunks):
                   .replace('Si', '1')
                   .strip()
     )
+    if citizen == 1:
+        tags.append('citizen')
+
     worker, rest = rest.split('\n', 1)
     worker = int(worker.split(delimiter)[1]
                   .replace('No', '0')
@@ -201,6 +215,9 @@ def summarize(chunks):
                   .replace('Si', '1')
                   .strip()
     )
+    if worker == 1:
+        tags.append('worker')
+
     rights, rest = rest.split('\n', 1)
     rights = int(rights.split(delimiter)[1]
                   .replace('No', '0')
@@ -208,11 +225,14 @@ def summarize(chunks):
                   .replace('Si', '1')
                   .strip()
     )
+    if rights == 1:
+        tags.append('rights')
+
     score, rest = rest.split('\n', 1)
     score = int(score.split(delimiter)[1]
                   .strip()
     )
 
-    tweet = rest.split(delimiter)[1].strip()
+    tweet = rest.split(delimiter)[1].strip().replace('"',"")
 
-    return social, economic, sustainable, politic, citizen, worker, rights, score, tweet
+    return tags, score, tweet
