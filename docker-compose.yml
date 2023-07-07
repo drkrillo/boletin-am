@@ -1,0 +1,17 @@
+version: '3.8'
+
+services:
+  app:
+    build:
+      context: ./app/
+      args:
+        - DEV=true
+    ports:
+      - "8000:8000"
+    volumes:
+      - "./app:/app"
+    environment:
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - REDIS_USER_PASSWORD=${REDIS_USER_PASSWORD}
+      - REDIS_HOST=${REDIS_HOST}
+      - REDIS_PORT=${REDIS_PORT}
