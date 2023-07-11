@@ -9,8 +9,6 @@ from fastapi.middleware.cors import CORSMiddleware
 
 from redis_om import get_redis_connection, JsonModel
 
-from utils.generate_publication import generate_publication
-
 from dotenv import load_dotenv
 load_dotenv()
 
@@ -51,21 +49,6 @@ class Publication(JsonModel):
 @app.get('/publications/')
 def get_all_publications():
     return [format(pk) for pk in Publication.all_pks()]
-
-@app.post('/publication/{id}')
-def post_publication(id: int):
-    publication = generate_publication(id)
-    print(publication['date'], type(publication['date']))
-    publication = Publication(
-        id=publication['id'],
-        date=publication['date'],
-        url=publication['url'],
-        type=publication['type'],
-        summary=publication['summary'],
-        tags=publication['tags'],
-        score=publication['score'],
-    )
-    return publication.save()
 
 def format(pk: str):
     publication = Publication.get(pk)
