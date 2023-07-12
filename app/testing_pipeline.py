@@ -1,26 +1,15 @@
-import pandas as pd
+import json
 from utils.generate_publication import generate_publication
 
-df = pd.read_csv('../data.csv')
-
 id = 289141
+fn = '../data.json'
 
 while True:
     publication = generate_publication(id)
-    row = [
-        publication['jd'],
-        publication['date'],
-        publication['url'],
-        publication['type'],
-        publication['summary'],
-        publication['tags'],
-        publication['score']
-    ]
 
-    df.loc[-1] = row
-    
-    df.to_csv(
-        df,
-        delimiter='|',
-        econding='latin_1'
-    )
+    with open(fn, "r+") as file:
+        data = json.load(file)
+        data.append(publication)
+        file.seek(0)
+        json.dump(data, file)
+    id += 1
