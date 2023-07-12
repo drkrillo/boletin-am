@@ -1,6 +1,6 @@
 import json
 from utils.publication_pipeline import generate_publication
-from utils.scraper import *
+from utils.scraper import today_urls
 
 urls = today_urls()
 
