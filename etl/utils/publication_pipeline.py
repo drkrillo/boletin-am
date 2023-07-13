@@ -1,7 +1,7 @@
 import json
 import datetime
 
-from utils import scraper, preprocessing, prompt
+from utils import scraper, preprocesser, prompt
 
 from dotenv import load_dotenv
 load_dotenv()
@@ -11,7 +11,7 @@ def generate_publication(url):
     type, content = scraper.scrape_article(url)
     print('Completed Scraping')
 
-    chunks = preprocessing.chop(content)
+    chunks = preprocesser.chop(content)
     date = datetime.date.today()
     print('Completed Preprocessing')
 
