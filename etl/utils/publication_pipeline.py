@@ -19,8 +19,7 @@ def generate_publication(url):
     print('Completed Extraction')
 
     publication = {
-        'id': id,
-        'date': date,
+        'date': str(date),
         'url': url,
         'type': type,
         'summary': summary,
