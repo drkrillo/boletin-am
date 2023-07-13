@@ -1,30 +1,32 @@
 import json
 import datetime
 
-from utils import scraper, preprocessing, prompt
+from utils import scraper, preprocesser, prompt
 
 from dotenv import load_dotenv
 load_dotenv()
 
 
-def generate_publication(id):
-    url = f'https://www.boletinoficial.gob.ar/detalleAviso/primera/{id}/20230704'
-    type, content = scraper.scrape(url)
+def generate_publication(url):
+    type, content = scraper.scrape_article(url)
     print('Completed Scraping')
-    chunks = preprocessing.chop(content)
+
+    chunks = preprocesser.chop(content)
+    date = datetime.date.today()
     print('Completed Preprocessing')
+
     tags, score, summary = prompt.summarize(chunks)
     print('Completed Extraction')
-    date = preprocessing.transform_date(content[-11:].replace('\n',''))
+
     publication = {
-        'id': id,
-        'date': date,
+        'date': str(date),
         'url': url,
         'type': type,
         'summary': summary,
         'tags': tags,
         'score': score
     }
-    print('Publicated Created')
+    print('Publication Created')
     print(publication)
+
     return publication
