@@ -1,6 +1,6 @@
 import json
 
-FILE = '../../data.json'
+FILE = '../data.json'
 
 def json_loader(
         entry: dict,
