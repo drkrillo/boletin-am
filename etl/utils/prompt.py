@@ -56,10 +56,6 @@ def summarize(chunks):
             Generar un resumen del documento. El mensaje debe ser informativo, detallado, \ 
             conciso y orientado a un lector promedio sin conocimientos \
             en leyes.
-            Agregar un párrafo dando detalles acerca de números, fechas, \
-            u otro dato relevante del documento importante para el ciudadano.
-            No hace falta un texto introductorio aclarando que se  \
-            trata de un resumen.
             No debe incluirse la fecha de publicación ni que fue \
             publicada en el Boletín Oficial.
             El texto generado debe ser arreglado como una noticia, \
@@ -131,10 +127,6 @@ def summarize(chunks):
             Generar un resumen del documento. El mensaje debe ser informativo, detallado, \ 
             pero conciso y orientado a un lector promedio sin conocimientos \
             en leyes.
-            Agregar un párrafo dando detalles acerca de números, fechas, \
-            u otro dato relevante del documento importante para el ciudadano.
-            No hace falta un texto introductorio aclarando que se  \
-            trata de un resumen.
             No debe incluirse la fecha de publicación ni que fue \
             publicada en el Boletín Oficial.
             El texto generado debe ser arreglado como una noticia, \
