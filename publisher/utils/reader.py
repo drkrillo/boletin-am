@@ -1,7 +1,7 @@
 import json
 
-def reader():
-    f = open('../data.json')
+def reader(filepath: str):
+    f = open(filepath)
     data = json.load(f)
     
     return data
