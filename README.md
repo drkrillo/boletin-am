@@ -4,18 +4,16 @@ Este proyecto se encarga de levantar la información de la primera sección del 
 
 ## Setup
 
-Para correr el proyecto, desde la carpeta base crear un nuevo entorno virtual:
-```
-python -m venv .venv
-```
-Una vez creado, activarlo usando:
-```
-.venv\scripts\activate
-```
-y correr:
+Instalar librerías necesarias:
 ```
 pip install -r requirements.txt 
 ```
+Creat en la carpeta base, una nueva carpeta llamada ```
+.env``` que contenga la siguiente variable de entorno:
+```
+OPENAI_API_KEY=<tu api key de Open AI>
+```
+Puedes crear una API Key de Open AI una vez te crees un usuario. Hay una versión gratuita.
 
 ## Scraping y Resummidor
 
