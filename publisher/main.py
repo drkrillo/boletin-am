@@ -7,9 +7,7 @@ FILEPATH = '../data.json'
 
 
 data = reader(FILEPATH)
-print(data)
-data = ranker(data, threshold=50)
-print(data)
+data = ranker(data, threshold=30)
 data = sort_by(data)
 
 for pub in data:
