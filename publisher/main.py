@@ -3,7 +3,7 @@ from utils.preprocesser import sort_by
 from utils.ranker import ranker
 
 
-FILEPATH = '../data.json'
+FILEPATH = 'data.json'
 
 
 data = reader(FILEPATH)
