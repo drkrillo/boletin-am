@@ -1,0 +1,37 @@
+# .github/workflows/update-boletin-am.yml
+
+name: "Update Good First Issues README"
+
+on:
+  schedule:
+    - cron: '15 4 * * *'
+  push:
+    branches:
+      - 'main'
+permissions:
+  contents: write
+jobs:
+  update-boletin-am:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v3
+        with:
+          python-version: '3.x'
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      - name: Run etl script
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: python etl/main.py
+      - name: Run publisher script
+        run: python publisher/main.py
+      - name: Commit and push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add README.md
+          git commit -m "Update README.md with dynamic content"
+          git push origin main
