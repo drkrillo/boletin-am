@@ -1,0 +1,10 @@
+## Lo importante del Boletín Oficial del {{today}}
+
+
+{% for result in results %}
+### {{result.type}}
+
+{{result.summary}}
+
+[Link a artículo completo](result.url)
+{% endfor %}
