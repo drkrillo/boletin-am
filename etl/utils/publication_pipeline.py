@@ -9,7 +9,6 @@ load_dotenv()
 
 def generate_publication(url):
     type, content = scraper.scrape_article(url)
-    print(content)
     print('Completed Scraping')
 
     chunks = preprocesser.chop(content)
