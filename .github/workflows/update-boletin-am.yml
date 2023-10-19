@@ -1,6 +1,6 @@
 # .github/workflows/update-boletin-am.yml
 
-name: "Update Good First Issues README"
+name: "Update Boletin README"
 
 on:
   schedule:
