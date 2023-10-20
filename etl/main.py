@@ -20,7 +20,8 @@ def main():
             publication = generate_publication(url)
 
         except openai.error.APIError as error:
-            print(error)
+            print(error, 'Waiting 20s to retry...')
+            publication = generate_publication(url)
 
         json_loader(publication)
         print('***************')
