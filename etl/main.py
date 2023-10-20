@@ -7,20 +7,25 @@ from utils.publication_pipeline import generate_publication
 from utils.scraper import today_urls
 from utils.loader import json_loader
 
-urls = today_urls()
-print(f"{len(urls)} Publications found.")
-print('***************')
 
-for i, url in enumerate(urls):
-    print(f"Publication {i+1}")
-
-    while True:
-        try:
-            publication = generate_publication(url)
-
-        except openai.error.RateLimitError as error:
-            print(error)
-            # time.sleep(20)
-
-    json_loader(publication)
+def main():
+    urls = today_urls()
+    print(f"{len(urls)} Publications found.")
     print('***************')
+
+    for i, url in enumerate(urls):
+        print(f"Publication {i+1}")
+
+        while True:
+            try:
+                publication = generate_publication(url)
+
+            except openai.error.RateLimitError as error:
+                print(error)
+                # time.sleep(20)
+
+        json_loader(publication)
+        print('***************')
+
+if __name__ == "__main__":
+    main()
