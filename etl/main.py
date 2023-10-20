@@ -19,7 +19,7 @@ def main():
         try:
             publication = generate_publication(url)
 
-        except openai.error.RateLimitError as error:
+        except openai.error.APIError as error:
             print(error)
 
         json_loader(publication)
