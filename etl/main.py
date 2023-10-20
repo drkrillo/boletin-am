@@ -17,10 +17,10 @@ for i, url in enumerate(urls):
     while True:
         try:
             publication = generate_publication(url)
-            break
+
         except openai.error.RateLimitError as error:
             print(error)
-            time.sleep(20)
+            # time.sleep(20)
 
     json_loader(publication)
     print('***************')
