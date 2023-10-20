@@ -12,9 +12,9 @@ FILEPATH = 'data.json'
 today = str(datetime.datetime.today().strftime('%Y-%m-%d'))
 
 
-def main()
+def main():
     data = reader(FILEPATH)
-    data = ranker(data, threshold=30)
+    data = ranker(data, threshold=50)
     data = sort_by(data)
 
 
