@@ -16,13 +16,11 @@ def main():
     for i, url in enumerate(urls):
         print(f"Publication {i+1}")
 
-        while True:
-            try:
-                publication = generate_publication(url)
+        try:
+            publication = generate_publication(url)
 
-            except openai.error.RateLimitError as error:
-                print(error)
-                # time.sleep(20)
+        except openai.error.RateLimitError as error:
+            print(error)
 
         json_loader(publication)
         print('***************')
