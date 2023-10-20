@@ -1,5 +1,7 @@
 import json
 import datetime
+import openai
+import time 
 
 from utils import scraper, preprocesser, prompt
 
@@ -15,7 +17,13 @@ def generate_publication(url):
     date = datetime.date.today()
     print('Completed Preprocessing')
 
-    tags, score, summary = prompt.summarize(chunks)
+    try:
+        tags, score, summary = prompt.summarize(chunks)
+    except openai.error.APIConnectionError as error:
+        print(error, "\n Retrying in 20s...")
+        time.sleep(20)
+        tags, score, summary = prompt.summarize(chunks)
+
     print('Completed Extraction')
 
     publication = {
