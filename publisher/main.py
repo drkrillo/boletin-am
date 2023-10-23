@@ -19,7 +19,7 @@ def main():
 
     env = Environment(loader=FileSystemLoader('templates'))
     template = env.get_template('README.md.j2')
-    rendered_readme = template.render(results=data, today=today, areas=set([x['area'] for x in data]))
+    rendered_readme = template.render(results=data, today=today, types=set([x['type'] for x in data]))
             
     with open("README.md", "w+") as f:
         f.write(rendered_readme)

@@ -2,10 +2,10 @@
 
 ## Lo importante del {{today}}
 
-{% for area in areas %}
-### {{area}}
-{% for result in results %}{% if result.area == area %}
-#### {{result.type}}
+{% for type in types %}
+### {{type}}
+{% for result in results %}{% if result.type == type %}
+#### {{result.area}}
 
 {{result.summary}}
 
