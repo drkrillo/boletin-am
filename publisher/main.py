@@ -17,16 +17,14 @@ def main():
     data = ranker(data, threshold=50)
     data = sort_by(data)
 
-
     env = Environment(loader=FileSystemLoader('templates'))
     template = env.get_template('README.md.j2')
-    rendered_readme = template.render(results=data, today=today)
+    rendered_readme = template.render(results=data, today=today, areas=set([x['area'] for x in data]))
             
     with open("README.md", "w+") as f:
         f.write(rendered_readme)
 
     for pub in data:
-        print(pub)
         print("********************")
 
 if __name__ == "__main__":
