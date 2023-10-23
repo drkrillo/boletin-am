@@ -10,6 +10,8 @@
 {{result.summary}}
 
 Importancia: {{result.score}}
+
 Tags: {% for tag in result.tags %}{{tag}}, {% endfor %}
+
 [Link a artículo completo]({{result.url}})
 {% endif %}{% endfor %}{% endfor %}
