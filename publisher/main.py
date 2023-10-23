@@ -14,7 +14,7 @@ today = str(datetime.datetime.today().strftime('%Y-%m-%d'))
 
 def main():
     data = reader(FILEPATH)
-    data = ranker(data, threshold=50)
+    data = ranker(data, threshold=75)
     data = sort_by(data)
 
     env = Environment(loader=FileSystemLoader('templates'))
