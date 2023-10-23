@@ -1,29 +1,50 @@
 import json
 import time
+import datetime
 
 import openai
 
-from utils.publication_pipeline import generate_publication
-from utils.scraper import today_urls
-from utils.loader import json_loader
+from utils import scraper, loader, prompt, preprocesser
 
 
 def main():
-    urls = today_urls()
+    urls, _ = scraper.today_urls()
     print(f"{len(urls)} Publications found.")
     print('***************')
 
     for i, url in enumerate(urls):
         print(f"Publication {i+1}")
+        type, area, content, _ = scraper.scrape_article(url)
+        print('Completed Scraping')
+
+        chunks = preprocesser.chop(content)
+        date = datetime.date.today()
+        print('Completed Preprocessing')
 
         try:
-            publication = generate_publication(url)
+            tags, score, summary = prompt.summarize(chunks)
+        except (openai.error.APIConnectionError, openai.error.APIError) as error:
+            print(error, "\n Retrying in 20s...")
+            time.sleep(20)
+            tags, score, summary = prompt.summarize(chunks)
 
-        except openai.error.APIError as error:
-            print(error, 'Waiting 20s to retry...')
-            publication = generate_publication(url)
+        print('Completed Extraction')
 
-        json_loader(publication)
+        publication = {
+            'date': str(date),
+            'area': area,
+            'url': url,
+            'type': type,
+            'summary': summary,
+            'tags': tags,
+            'score': score
+        }
+
+        print('Publication Created')
+        print(publication)
+
+        loader.json_loader(publication)
+        print("Loaded to json")
         print('***************')
 
 if __name__ == "__main__":
