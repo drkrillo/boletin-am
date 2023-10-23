@@ -2,10 +2,12 @@
 
 ## Lo importante del Boletín Oficial del {{today}}
 
-{% for result in results %}
-### {{result.type}}
+{% for area in areas %}
+### {{area}}
+{% for result in results %}{% if result.area == area %}
+#### {{result.type}}
 
 {{result.summary}}
 
-[Link a artículo completo](result.url)
-{% endfor %}
+[Link a artículo completo]({{result.url}})
+{% endif %}{% endfor %}{% endfor %}
