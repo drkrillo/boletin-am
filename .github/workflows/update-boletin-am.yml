@@ -35,5 +35,6 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add README.md
+          git add data.json
           git commit -m "Update README.md with dynamic content"
           git push origin main
