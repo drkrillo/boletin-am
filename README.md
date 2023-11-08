@@ -1,158 +1,90 @@
 # Boletín  Oficial en Criollo
 
-## Lo importante del 2023-10-23
+## Lo importante del 2023-10-26
 
 
-### Leyes
+### Disposiciones
 
-#### LEY OLIMPIA
+#### MINISTERIO DE ECONOMÍA SUBSECRETARÍA DE FINANCIAMIENTO Y REGULACIÓN DE LA ECONOMÍA DEL CONOCIMIENTO
 
-Se aprueba la Ley Olímpia en Argentina, que modifica la Ley 26.485 sobre violencia digital. Se incorporan derechos y bienes digitales de las mujeres, se promueve la prevención de la violencia en el espacio público y se establecen medidas para combatir la violencia digital. Puntuación: 80/100. 
+Se aprobó la bonificación de tasa de interés para créditos destinados a proyectos productivos de MiPyMEs vinculados con la economía del conocimiento. La bonificación consiste en la reducción de puntos porcentuales de la tasa de interés. Detalles en el Boletín Oficial. #Argentina #economía #créditos #MiPyMEs
 
-La Ley Olímpia, aprobada en Argentina, introduce modificaciones a la Ley 26.485 sobre violencia digital. Esta ley busca proteger los derechos y bienes digitales de las mujeres, así como su desenvolvimiento y permanencia en el espacio digital. Se establece que se debe respetar la dignidad, reputación e identidad de las mujeres, incluso en los espacios digitales. Además, se define la violencia contra las mujeres como toda conducta basada en razones de género que afecte su vida, libertad, dignidad, integridad física, psicológica, sexual, económica o patrimonial. También se incorpora el concepto de violencia digital o telemática, que incluye conductas que atenten contra la integridad, dignidad, identidad, reputación y libertad de las mujeres en el espacio digital. La ley también establece la implementación de un servicio multisoporte gratuito y accesible para brindar contención, información y asesoramiento sobre recursos existentes en materia de prevención de la violencia contra las mujeres. Además, se promueven programas de alfabetización digital y buenas prácticas en el uso de las tecnologías de la información y la comunicación en el ámbito educativo. La ley también contempla medidas para el resguardo de la evidencia en soportes digitales y la supresión de contenidos que constituyan violencia digital. Esta ley tiene como objetivo principal proteger a las mujeres de la violencia en el ámbito digital y promover su participación y desenvolvimiento en el espacio digital.
-
-Importancia: 80
-Tags: citizen, worker, rights, 
-[Link a artículo completo](https://www.boletinoficial.gob.ar/detalleAviso/primera/296572/20231023)
-
-#### PLAN NACIONAL DE CIENCIA, TECNOLOGÍA E INNOVACIÓN 2030
-
-Se aprueba el PLAN NACIONAL DE CIENCIA, TECNOLOGÍA E INNOVACIÓN 2030 en Argentina. El Ministerio de Ciencia, Tecnología e Innovación será la Autoridad de Aplicación. El plan busca impulsar el desarrollo científico y tecnológico en el país. #Ciencia #Tecnología #Innovación #Argentina
-
-Detalles: El PLAN NACIONAL DE CIENCIA, TECNOLOGÍA E INNOVACIÓN 2030 ha sido aprobado en Argentina. Este plan tiene como objetivo promover el desarrollo científico y tecnológico en el país. El Ministerio de Ciencia, Tecnología e Innovación será el encargado de implementar y coordinar las acciones necesarias para su cumplimiento. Esta iniciativa busca fomentar la investigación, la innovación y el avance tecnológico en diversas áreas.
+El fragmento del artículo publicado en el Boletín Oficial de Argentina delimitado por los hashtags
 
 Importancia: 80
+
 Tags: economic, citizen, worker, 
-[Link a artículo completo](https://www.boletinoficial.gob.ar/detalleAviso/primera/296574/20231023?anexos=1)
 
-#### PLAN NACIONAL DE CIENCIA, TECNOLOGÍA E INNOVACIÓN 2030
-
-Se aprueba el PLAN NACIONAL DE CIENCIA, TECNOLOGÍA E INNOVACIÓN 2030 en Argentina. El Ministerio de Ciencia, Tecnología e Innovación será la Autoridad de Aplicación. El plan busca impulsar el desarrollo científico y tecnológico en el país. #Ciencia #Tecnología #Innovación #Argentina
-
-Detalles: El PLAN NACIONAL DE CIENCIA, TECNOLOGÍA E INNOVACIÓN 2030 ha sido aprobado en Argentina. Este plan tiene como objetivo promover el desarrollo científico y tecnológico en el país. El Ministerio de Ciencia, Tecnología e Innovación será responsable de coordinar las acciones necesarias para su implementación. Esta iniciativa busca fomentar la investigación, la innovación y el avance tecnológico en diversas áreas.
-
-Importancia: 80
-Tags: economic, citizen, worker, 
-[Link a artículo completo](https://www.boletinoficial.gob.ar/detalleAviso/primera/296574/20231023)
+[Link a artículo completo](https://www.boletinoficial.gob.ar/detalleAviso/primera/297093/20231026)
 
 ### Resoluciones
 
-#### ENTE NACIONAL DE COMUNICACIONES
+#### MINISTERIO DE CIENCIA, TECNOLOGÍA E INNOVACIÓN
 
-El ENACOM propone modificar el Plan Fundamental de Numeración Nacional para solucionar la escasez de numeración en algunas áreas locales de telecomunicaciones. La propuesta busca fusionar áreas locales y asegurar disponibilidad de numeración por al menos cuatro años. CABASE sugiere estudiar un nuevo plan que considere avances tecnológicos y necesidades de los clientes. #Telecomunicaciones #Numeración #ENACOM #CABASE
-
-El fragmento del artículo publicado en el Boletín Oficial de Argentina delimitado por los hashtags
-
-Importancia: 80
-Tags: economic, citizen, worker, 
-[Link a artículo completo](https://www.boletinoficial.gob.ar/detalleAviso/primera/296594/20231023?anexos=1)
-
-#### ENTE NACIONAL DE COMUNICACIONES
-
-El ENACOM propone modificar el Plan Fundamental de Numeración Nacional para solucionar la escasez de numeración en áreas locales y asegurar disponibilidad en indicativos interurbanos. La propuesta busca fusionar áreas locales con el mismo indicativo interurbano y contempla el avance tecnológico. La CABASE sugiere estudiar un nuevo plan que considere las necesidades actuales y futuras de los clientes. #Telecomunicaciones #Numeración #ENACOM
-
-El fragmento del artículo publicado en el Boletín Oficial de Argentina se refiere a la propuesta de modificación del Plan Fundamental de Numeración Nacional (PFNN) por parte del Ente Nacional de Comunicaciones (ENACOM). Se menciona que el PFNN es un reglamento técnico que establece la estructura de la numeración utilizada en los servicios de telecomunicaciones y TIC.
-
-Sin embargo, se ha observado que la capacidad remanente en algunas áreas locales es escasa debido a la evolución de los servicios de comunicaciones móviles y su demanda de recursos de numeración. Además, la estructura del PFNN no permite identificar si un número corresponde a servicios de telefonía fija o móvil.
-
-Ante esta situación, se propone fusionar las áreas locales pertenecientes a un mismo indicativo interurbano en una única área, lo que permitiría utilizar la numeración asignada en áreas locales con menor demanda. Esta propuesta busca solucionar la escasez de numeración en las áreas locales con problemas de numeración y asegurar la disponibilidad de numeración en los indicativos interurbanos comprometidos por un tiempo superior a cuatro años.
-
-La Cámara Argentina de Internet (CABASE) también ha realizado comentarios sobre la propuesta, sugiriendo profundizar en el estudio de un nuevo plan que contemple el avance tecnológico y las necesidades actuales y futuras de los clientes.
-
-En este fragmento del artículo publicado en el Boletín Oficial de Argentina se mencionan diferentes cuestiones relacionadas con la telefonía fija y la adopción de nuevas tecnologías. Se destaca la propuesta de reducción de Áreas Locales para solucionar la problemática existente en cuanto a los recursos de numeración. También se menciona la implementación de la Portabilidad Numérica y se hace referencia a la necesidad de elaborar una nueva norma técnica para el uso y administración adecuada de la numeración. Se establece un plazo para que se presente un proyecto de norma técnica y se aprueba un anexo con las nuevas Áreas Locales resultantes.
-
-Importancia: 80
-Tags: economic, citizen, worker, 
-[Link a artículo completo](https://www.boletinoficial.gob.ar/detalleAviso/primera/296594/20231023)
-
-#### MINISTERIO DE DESARROLLO SOCIAL
-
-El Ministerio de Desarrollo Social ha creado el Programa Nacional de Inclusión Socioproductiva y Desarrollo Local - POTENCIAR TRABAJO para mejorar la empleabilidad y generar nuevas propuestas productivas para personas en situación de alta vulnerabilidad social y económica. Además, se cerrarán 144.424 cuentas bancarias aparentemente inactivas de beneficiarios de programas sociales. Detalles en el artículo del Boletín Oficial. #DesarrolloSocial #POTENCIARTRABAJO #CuentasBancarias #ProgramasSociales
+Se aprueba el PROGRAMA DIAMANTE para fortalecer las publicaciones científicas argentinas de acceso abierto. Funcionará bajo el MINISTERIO DE CIENCIA, TECNOLOGÍA E INNOVACIÓN. También se crea el Portal Diamante para publicaciones científicas. #Argentina #Ciencia #AccesoAbierto
 
 El fragmento del artículo publicado en el Boletín Oficial de Argentina delimitado por los hashtags
 
 Importancia: 80
+
 Tags: economic, citizen, worker, rights, 
-[Link a artículo completo](https://www.boletinoficial.gob.ar/detalleAviso/primera/296605/20231023?anexos=1)
 
-#### MINISTERIO DE DESARROLLO SOCIAL
+[Link a artículo completo](https://www.boletinoficial.gob.ar/detalleAviso/primera/297059/20231026?anexos=1)
 
-El Ministerio de Desarrollo Social ha creado el Programa Nacional de Inclusión Socioproductiva y Desarrollo Local - POTENCIAR TRABAJO para mejorar la empleabilidad y generar nuevas propuestas productivas para personas en situación de alta vulnerabilidad social y económica. Además, se cerrarán 144.424 cuentas bancarias aparentemente inactivas de beneficiarios de programas sociales en el Banco de la Nación Argentina. #DesarrolloSocial #POTENCIARTRABAJO #CuentasBancarias #Argentina
+#### ENTE NACIONAL REGULADOR DEL GAS
 
-El fragmento del artículo publicado en el Boletín Oficial de Argentina delimitado por los hashtags
-
-Importancia: 80
-Tags: economic, citizen, worker, 
-[Link a artículo completo](https://www.boletinoficial.gob.ar/detalleAviso/primera/296605/20231023)
-
-#### MINISTERIO DE ECONOMÍA
-
-El Boletín Oficial de Argentina publicó un fragmento sobre el restablecimiento del Programa de Fortalecimiento Productivo Argentino - Sector Aviar. Este programa busca ayudar a los productores de pollos parrilleros a mitigar el impacto del aumento de los costos de alimentación debido al incremento del precio de la soja en el mercado local. Se establecen nuevas pautas para determinar el beneficio del programa y se realizará la tramitación de forma electrónica a través del sitio web de la Administración Federal de Ingresos Públicos. #Argentina #ProgramaAviar #Productores #BoletínOficial
-
-El fragmento del artículo publicado en el Boletín Oficial de Argentina delimitado por los hashtags
+Autorizan a BUENOS AIRES GAS S.A. a instalar una red de distribución de gas natural en Juan Anchorena. El proyecto beneficiará a 389 usuarios residenciales y 16 comerciales. El presupuesto total es de $447.728.324 y será financiado por BAGSA.
 
 Importancia: 75
+
 Tags: economic, citizen, worker, 
-[Link a artículo completo](https://www.boletinoficial.gob.ar/detalleAviso/primera/296606/20231023)
+
+[Link a artículo completo](https://www.boletinoficial.gob.ar/detalleAviso/primera/297053/20231026)
+
+#### INSTITUTO NACIONAL DE LA PROPIEDAD INDUSTRIAL
+
+El Instituto Nacional de la Propiedad Industrial (INPI) ha aprobado una readecuación de la estructura arancelaria para los servicios que presta. Esto permitirá a los usuarios verificar el estado del arte de las invenciones y la titularidad de derechos de terceros. La medida busca una justa distribución de la carga económica y valores más accesibles para los trámites de solicitud de derechos de propiedad industrial. Además, se busca garantizar la realización de todos los trámites y servicios de manera electrónica. #INPI #PropiedadIndustrial #Aranceles #Trámites
+
+El Instituto Nacional de la Propiedad Industrial (INPI) ha aprobado una readecuación de la estructura arancelaria por los servicios que presta. A partir del 1 de diciembre de 2023, los usuarios podrán acceder a valores más accesibles para los trámites de solicitud de derechos de propiedad industrial. Esta medida busca una justa distribución de la carga económica y tiene en cuenta la evolución de los derechos de Propiedad Industrial. Además, se busca garantizar la realización de todos los trámites y servicios de manera electrónica a través de la página web del INPI. Esto permitirá a los usuarios verificar el estado del arte de las invenciones y la titularidad o vigencia de derechos de terceros. La información pública resulta de suma utilidad para que el sector productivo nacional pueda definir las inversiones que se traducen en el desarrollo productivo del país. Con esta readecuación arancelaria, el INPI busca seguir mejorando de forma constante y aumentar las prestaciones futuras de manera segura. #INPI #PropiedadIndustrial #Aranceles #Trámites
+
+Importancia: 75
+
+Tags: economic, citizen, worker, 
+
+[Link a artículo completo](https://www.boletinoficial.gob.ar/detalleAviso/primera/297054/20231026?anexos=1)
+
+#### JUNTA DE SEGURIDAD EN EL TRANSPORTE
+
+Se aprueba contrato de mantenimiento y reparación de instalaciones de la JUNTA DE SEGURIDAD EN EL TRANSPORTE por PESOS 89.565.300. La firma COOPERATIVA DE TRABAJO TAMA LIMITADA es la adjudicada. #ContrataciónPública #Mantenimiento #Transporte
+
+En el documento se establece que se ha aprobado la Contratación por Licitación Pública de Etapa Única Nacional bajo la Modalidad Llave en Mano – Proceso de Compra N° 436-0019-LPU23. Esta contratación consiste en el servicio de mantenimiento y reparación de instalaciones de la sede de la JUNTA DE SEGURIDAD EN EL TRANSPORTE. El contrato ha sido adjudicado a la firma COOPERATIVA DE TRABAJO TAMA LIMITADA por un monto de PESOS 89.565.300. Las propuestas de las firmas COOPERATIVA DE TRABAJO NUESTRO LUGAR LIMITADA y GRUPO 7 SOLUCIONES INTEGRALES S.R.L. han sido desestimadas. Se establece que la erogación será imputada a las partidas presupuestarias correspondientes. Además, se ha emitido la orden de compra y se ha notificado a las empresas involucradas. Este comunicado no trata sobre ningún derecho primordial y ha sido calificado con una puntuación de 75 en cuanto a su importancia y trascendencia desde un punto de vista popular, ambiental y tecnológico.
+
+Importancia: 75
+
+Tags: economic, citizen, worker, 
+
+[Link a artículo completo](https://www.boletinoficial.gob.ar/detalleAviso/primera/297057/20231026)
 
 ### Decretos
 
-#### CONTRATOS
+#### NOMENCLATURA COMÚN DEL MERCOSUR
 
-El Gobierno argentino firmará un contrato de financiación con el Banco Europeo de Inversiones por €150.000.000 para el Programa de Servicios Agrícolas Provinciales V - PROSAP V. El objetivo es mejorar la productividad y la comercialización de la producción agroindustrial, con enfoque en la adaptación al cambio climático. El programa incluye infraestructuras rurales, apoyo a la modernización agroalimentaria y gestión y evaluación. El Ministerio de Economía será el encargado de ejecutar el programa. #agricultura #financiamiento #cambioclimático #Argentina
+Se aprueban modificaciones en la Nomenclatura Común del MERCOSUR y en el Arancel Externo Común. También se establecen alícuotas para el Derecho de Importación Extrazona en diferentes categorías de mercaderías. El decreto entrará en vigencia a partir del día siguiente a su publicación en el Boletín Oficial. #Argentina #ComercioExterior #Economía
 
-Detalles: El contrato de financiación propuesto entre Argentina y el Banco Europeo de Inversiones (BEI) por €150.000.000 tiene como objetivo mejorar la productividad, la comercialización y el agregado de valor en la producción agroindustrial argentina. El programa se enfoca en la adaptación al cambio climático y se llevará a cabo a través de tres componentes: infraestructuras rurales públicas, apoyo a la modernización agroalimentaria y gestión y evaluación. El Ministerio de Economía será el encargado de ejecutar el programa.
-
-Importancia: 80
-Tags: economic, sustainable, citizen, worker, 
-[Link a artículo completo](https://www.boletinoficial.gob.ar/detalleAviso/primera/296577/20231023?anexos=1)
-
-#### CONTRATOS
-
-El Gobierno argentino firmará un contrato de financiación con el Banco Europeo de Inversiones por €150.000.000 para el Programa de Servicios Agrícolas Provinciales V - PROSAP V. El objetivo es mejorar la productividad y la comercialización de la producción agroindustrial, con enfoque en la adaptación al cambio climático. El programa consta de tres componentes: infraestructuras rurales públicas, apoyo a la modernización y competitividad agroalimentaria, y gestión y evaluación. El Ministerio de Economía será el encargado de ejecutar el programa.
-
-Detalles: El contrato de financiación será suscripto entre la República Argentina y el Banco Europeo de Inversiones por un monto de hasta €150.000.000. El objetivo del programa es mejorar la productividad, la comercialización y el agregado de valor en la producción agroindustrial argentina, con enfoque en la adaptación al cambio climático. El programa se llevará a cabo a través de tres componentes: infraestructuras rurales públicas, apoyo a la modernización y competitividad agroalimentaria, y gestión y evaluación. El Ministerio de Economía será el encargado de ejecutar el programa.
+El fragmento del artículo publicado en el Boletín Oficial de Argentina delimitado por los hashtags
 
 Importancia: 80
-Tags: economic, sustainable, citizen, worker, 
-[Link a artículo completo](https://www.boletinoficial.gob.ar/detalleAviso/primera/296577/20231023)
 
-#### CONTRATOS
+Tags: economic, politic, 
 
-El Gobierno argentino aprueba un contrato de línea de crédito con la Agencia Francesa de Desarrollo por un monto de EUR 100.000.000 para financiar parcialmente el Programa Federal de Transporte de Energía Eléctrica. El objetivo es reducir las emisiones de gases de efecto invernadero y promover la participación de las mujeres en el programa. El Ministerio de Economía será responsable de la ejecución del programa. #EnergíaRenovable #TransporteEléctrico #CooperaciónInternacional #DesarrolloSostenible
+[Link a artículo completo](https://www.boletinoficial.gob.ar/detalleAviso/primera/297038/20231026?anexos=1)
 
-El documento aprobado por el Gobierno argentino es el Modelo de Contrato de Línea de Crédito AFD N° CAR1033 propuesto para ser suscripto entre la REPÚBLICA ARGENTINA y la AGENCIA FRANCESA DE DESARROLLO (AFD). Este contrato tiene como objetivo financiar parcialmente el Programa Federal de Transporte de Energía Eléctrica (PFTEE) con un monto de EUR 100.000.000. El programa busca contribuir a la descarbonización del sector eléctrico, reduciendo el uso de generación basada en combustibles fósiles y aumentando la capacidad de transmisión de energía eléctrica para satisfacer la nueva demanda e inyectar energía renovable en el sistema interconectado. Además, se busca mejorar la confiabilidad y eficiencia de la red eléctrica y promover la participación de las mujeres en el programa. La ejecución del programa estará a cargo de la SECRETARÍA DE ENERGÍA del MINISTERIO DE ECONOMÍA, a través del Fondo Fiduciario para el Transporte Eléctrico Federal (FFTEF). El contrato y su documentación adicional serán suscritos por el Ministro de Economía en nombre y representación de la REPÚBLICA ARGENTINA.
+#### NOMENCLATURA COMÚN DEL MERCOSUR
 
-Importancia: 80
-Tags: economic, sustainable, citizen, worker, 
-[Link a artículo completo](https://www.boletinoficial.gob.ar/detalleAviso/primera/296578/20231023?anexos=1)
-
-#### CONTRATOS
-
-El Gobierno argentino aprueba un contrato de línea de crédito con la Agencia Francesa de Desarrollo por EUR 100 millones para financiar el Programa Federal de Transporte de Energía Eléctrica. El objetivo es reducir las emisiones de gases de efecto invernadero y promover la participación de las mujeres en el programa. #EnergíaRenovable #TransporteEléctrico #CooperaciónInternacional #DesarrolloSostenible
-
-En el documento se establece que la Agencia Francesa de Desarrollo (AFD) se compromete a asistir financieramente a Argentina con EUR 100 millones para el Programa Federal de Transporte de Energía Eléctrica. El objetivo principal es reducir las emisiones de gases de efecto invernadero y promover la participación de las mujeres en el programa. El programa consta de tres componentes: inversiones en infraestructura sostenible, fortalecimiento institucional y estudios técnicos, y administración del programa. La ejecución estará a cargo de la Secretaría de Energía del Ministerio de Economía, a través del Fondo Fiduciario para el Transporte Eléctrico Federal (FFTEF). El contrato de línea de crédito y su documentación adicional serán suscritos por el Ministro de Economía en representación de Argentina.
+Se aprueban modificaciones en la Nomenclatura Común del MERCOSUR y en el Arancel Externo Común. También se autorizan alícuotas distintas para importaciones de Bienes de Capital y Bienes de Informática y Telecomunicaciones. Se prorrogan las Listas Nacionales de Excepciones al Arancel Externo Común y se realizan modificaciones en los tratamientos arancelarios. (Puntuación: 80)
 
 Importancia: 80
-Tags: economic, sustainable, citizen, worker, 
-[Link a artículo completo](https://www.boletinoficial.gob.ar/detalleAviso/primera/296578/20231023)
 
-#### CONTRATOS
+Tags: economic, politic, 
 
-El Gobierno de Argentina aprueba un préstamo de USD 200 millones del Banco Internacional de Reconstrucción y Fomento para financiar el acceso al financiamiento sostenible para las micro, pequeñas y medianas empresas. El Banco de Inversión y Comercio Exterior será el encargado de ejecutar el proyecto. #Argentina #préstamo #financiamiento #MIPYMEs
-
-En el día de hoy, el Gobierno de Argentina ha aprobado un préstamo de USD 200 millones del Banco Internacional de Reconstrucción y Fomento (BIRF) para financiar el acceso al financiamiento sostenible para las micro, pequeñas y medianas empresas (MIPYMEs). El objetivo de este proyecto es promover el acceso al financiamiento sostenible y responder de manera efectiva en caso de una crisis o emergencia elegible. El préstamo será ejecutado por el Banco de Inversión y Comercio Exterior (BICE), entidad del sector público nacional financiero, en coordinación con el Ministerio de Economía. Esta iniciativa busca fortalecer las capacidades del sector financiero, facilitar el acceso al financiamiento para las MIPYMEs y establecer un contingente de respuesta de emergencia. El préstamo ha sido aprobado con condiciones generales usuales en este tipo de contratos y tiene una puntuación de 80 en términos de importancia y trascendencia desde un punto de vista popular, ambiental y tecnológico.
-
-Importancia: 80
-Tags: economic, sustainable, citizen, worker, 
-[Link a artículo completo](https://www.boletinoficial.gob.ar/detalleAviso/primera/296579/20231023?anexos=1)
-
-#### CONTRATOS
-
-El Gobierno de Argentina aprueba un préstamo de USD 200 millones del Banco Internacional de Reconstrucción y Fomento para financiar el acceso al financiamiento sostenible para las micro, pequeñas y medianas empresas. El Banco de Inversión y Comercio Exterior será el encargado de ejecutar el proyecto. #Argentina #préstamo #financiamiento #MIPYMEs
-
-En el día de hoy, el Gobierno de Argentina ha aprobado un préstamo de USD 200 millones del Banco Internacional de Reconstrucción y Fomento (BIRF) para financiar el acceso al financiamiento sostenible para las micro, pequeñas y medianas empresas (MIPYMEs). El objetivo de este proyecto es promover el acceso al financiamiento sostenible y responder de manera efectiva en caso de una crisis o emergencia elegible. El préstamo será ejecutado por el Banco de Inversión y Comercio Exterior (BICE), entidad del sector público nacional financiero, en coordinación con el Ministerio de Economía. Esta iniciativa busca fortalecer las capacidades del sector financiero, facilitar el acceso al financiamiento para las MIPYMEs y establecer un contingente de respuesta de emergencia. El préstamo ha sido aprobado con condiciones generales usuales en este tipo de contratos y tiene una puntuación de 80 en términos de importancia y trascendencia desde un punto de vista popular, ambiental y tecnológico.
-
-Importancia: 80
-Tags: economic, sustainable, citizen, worker, 
-[Link a artículo completo](https://www.boletinoficial.gob.ar/detalleAviso/primera/296579/20231023)
+[Link a artículo completo](https://www.boletinoficial.gob.ar/detalleAviso/primera/297038/20231026)
