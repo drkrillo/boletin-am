@@ -56,15 +56,10 @@ def summarize(chunks):
             Generar un resumen del documento. El mensaje debe ser informativo, detallado, \ 
             conciso y orientado a un lector promedio sin conocimientos \
             en leyes.
-            Agregar un párrafo dando detalles acerca de números, fechas, \
-            u otro dato relevante del documento importante para el ciudadano.
-            No hace falta un texto introductorio aclarando que se  \
-            trata de un resumen.
             No debe incluirse la fecha de publicación ni que fue \
             publicada en el Boletín Oficial.
-            El texto generado debe ser arreglado como una noticia, \
-            y su contenido debe ser de corto a moderado, dependiendo \
-            la cantidad de información importante.
+            El texto generado debe ser arreglado como una tweet, \
+            y su contenido debe entrar  en un sólo tweet.
 
             Usar el siguiente formato:
             Paso 1:{delimiter} <Si/No Paso 1>
