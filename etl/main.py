@@ -25,7 +25,6 @@ def main():
 
             try:
                 tags, score, summary = prompt.summarize(chunks)
-                time.sleep(20)
             except (openai.error.APIConnectionError, openai.error.APIError) as error:
                 print(error, "\n Retrying in 20s...")
                 time.sleep(20)
