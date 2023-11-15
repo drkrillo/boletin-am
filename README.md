@@ -3,39 +3,29 @@
 Esta página tiene un resumen de lo más importante del Boletín Oficial(Primera Sección). 
 Aplica Web Scraping sobre las publicaciones del día, y las pasa por un LLM(GPT 3.5) para obtener una versión resumida de lo másimportante! :fire:
 
-## Lo importante del 2023-11-13
+## Lo importante del 2023-11-15
 
 
 ### Resoluciones
 
-#### ENTE NACIONAL DE COMUNICACIONES
+#### MINISTERIO DE TURISMO Y DEPORTES
 
-Se aprueba y amplía el PROGRAMA CONECTIVIDAD PARA EL SISTEMA UNIVERSITARIO NACIONAL - MEJORA Y ACTUALIZACIÓN DE EQUIPAMIENTO. Se destinarán hasta $6.000.000.000 para mejorar la conectividad y equipamiento en las universidades nacionales. Detalles en el Boletín Oficial.
+El Ministerio de Turismo y Deportes convoca a personas afectadas por inundaciones en las provincias de Misiones, Corrientes, Entre Ríos y otras zonas cercanas a los ríos Paraná, Uruguay, Iguazú y Paraguay a presentar solicitudes de apoyo económico en el marco del Programa de Auxilio para Prestadores Turísticos (APTUR) VIII. #Turismo #AyudaEconómica #Inundaciones #Argentina
 
 Importancia: 80
 
-Tags: economic, citizen, worker, 
+Tags: economic, sustainable, citizen, worker, rights, 
 
-[Link a artículo completo](https://www.boletinoficial.gob.ar/detalleAviso/primera/298269/20231113)
+[Link a artículo completo](https://www.boletinoficial.gob.ar/detalleAviso/primera/298444/20231115)
 
-#### MINISTERIO DE SEGURIDAD
+#### MINISTERIO DE ECONOMÍA SECRETARÍA DE ENERGÍA
 
-Se otorgará un subsidio a los bomberos voluntarios de Mendoza para fortalecer su capacidad operativa en la lucha contra incendios forestales y protección civil. Se destinarán $100 millones para la adquisición de bienes de capital. Las entidades beneficiarias deberán rendir cuentas de los fondos asignados. Prórroga sujeta a aprobación. Medidas civiles o penales en caso de incumplimiento. #BomberosVoluntarios #Mendoza #Subsidio
+La Secretaría de Energía establece precios de referencia y estabilizados de la energía en el Mercado Eléctrico Mayorista para usuarios productores en Río Negro. Medida busca mitigar daños económicos en sector agropecuario. Beneficiarios deben contar con certificado de emergencia. Distribuidores deben declarar mensualmente demanda de energía. #Energía #RíoNegro #SectorAgropecuario #MedidaEconómica
 
 El fragmento del artículo publicado en el Boletín Oficial de Argentina delimitado por los hashtags
 
-Importancia: 80
+Importancia: 75
 
-Tags: citizen, worker, 
+Tags: economic, citizen, worker, 
 
-[Link a artículo completo](https://www.boletinoficial.gob.ar/detalleAviso/primera/298289/20231113)
-
-#### MINISTERIO DE TURISMO Y DEPORTES
-
-Se convoca a prestadores turísticos de Misiones, Corrientes y Entre Ríos a solicitar apoyo económico por las inundaciones. El programa APTUR VIII brinda un sostén económico a quienes se vieron afectados. Se destinarán $2.000.000 a los beneficiarios. #Turismo #AyudaEconómica #Inundaciones #Argentina
-
-Importancia: 80
-
-Tags: economic, sustainable, citizen, worker, 
-
-[Link a artículo completo](https://www.boletinoficial.gob.ar/detalleAviso/primera/298293/20231113)
+[Link a artículo completo](https://www.boletinoficial.gob.ar/detalleAviso/primera/298432/20231115)
