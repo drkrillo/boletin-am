@@ -14,7 +14,7 @@ def main():
     print('***************')
 
     for i, url in enumerate(urls):
-        print(f"Publication {i+1}")
+        print(f"Publication {i+1} of {len(urls)+1}")
         type, area, content, _ = scraper.scrape_article(url)
         print('Completed Scraping')
 
