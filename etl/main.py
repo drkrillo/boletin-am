@@ -29,6 +29,7 @@ def main():
                 openai.error.APIConnectionError, 
                 openai.error.APIError,
                 openai.error.ServiceUnavailableError,
+                openai.error.Timeout,
             ) as error:
                 print(error, "\n Retrying in 20s...")
                 time.sleep(20)
