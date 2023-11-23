@@ -229,5 +229,6 @@ def summarize(chunks):
     )
 
     tweet = rest.split(delimiter)[1].strip().replace('"',"")
-
+    tweet = tweet.split("\n")[0]
+    
     return tags, score, tweet
