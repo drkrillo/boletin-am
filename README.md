@@ -3,27 +3,27 @@
 Esta página tiene un resumen de lo más importante del Boletín Oficial(Primera Sección). 
 Aplica Web Scraping sobre las publicaciones del día, y las pasa por un LLM(GPT 3.5) para obtener una versión resumida de lo másimportante! :fire:
 
-## Lo importante del 2023-11-23
+## Lo importante del 2023-11-24
 
 
 ### Resoluciones
 
-#### MINISTERIO DE ECONOMÍA SECRETARÍA DE AGRICULTURA, GANADERÍA Y PESCA
+#### MINISTERIO DE OBRAS PÚBLICAS
 
-El Gobierno Nacional establece medidas para promover la competencia y proteger a los pequeños productores en el mercado de granos. Se implementará un sistema de registro de operaciones y se designa a la Subsecretaría de Mercados Agropecuarios como autoridad de control. Cumplir con estas medidas es fundamental para garantizar transparencia y competencia en el mercado. #Argentina #MercadoDeGranos #Competencia #PequeñosProductores
+El Boletín Oficial de Argentina aprueba nuevos programas y proyectos de financiamiento externo en el ámbito del Ministerio de Obras Públicas. Se designa a la Dirección General de Programas y Proyectos Sectoriales y Especiales como responsable de la ejecución fiduciaria. Además, se aprueban modelos de contrato con organismos multilaterales de crédito. #Argentina #ObrasPúblicas #FinanciamientoExterno
 
-Importancia: 80
+Importancia: 75
 
-Tags: economic, politic, citizen, worker, rights, 
+Tags: economic, citizen, worker, 
 
-[Link a artículo completo](https://www.boletinoficial.gob.ar/detalleAviso/primera/298940/20231123?anexos=1)
+[Link a artículo completo](https://www.boletinoficial.gob.ar/detalleAviso/primera/299045/20231124?anexos=1)
 
-#### MINISTERIO DE ECONOMÍA SECRETARÍA DE AGRICULTURA, GANADERÍA Y PESCA
+#### MINISTERIO DE OBRAS PÚBLICAS
 
-El Gobierno Nacional establece la obligación de registrar todas las operaciones de compraventa de productos y subproductos agrícolas en un sistema informático centralizado. Esto busca promover la competencia equitativa y proteger a los pequeños productores, industriales e inversores. Además, se reglamentan los contratos de compra-venta de granos y se establecen mecanismos de control para garantizar el cumplimiento. #Economía #Agricultura #Transparencia #Competencia
+Aprobados contratos de préstamo para financiar proyectos de infraestructura y gestión del riesgo de inundaciones urbanas y programas de agua segura para comunidades rurales dispersas. Ministerio de Obras Públicas será el encargado de ejecutar los proyectos. #Argentina #infraestructura #agua
 
-Importancia: 80
+Importancia: 75
 
-Tags: economic, citizen, worker, rights, 
+Tags: economic, citizen, worker, 
 
-[Link a artículo completo](https://www.boletinoficial.gob.ar/detalleAviso/primera/298940/20231123)
+[Link a artículo completo](https://www.boletinoficial.gob.ar/detalleAviso/primera/299045/20231124)
