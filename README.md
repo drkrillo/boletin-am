@@ -3,47 +3,49 @@
 Esta página tiene un resumen de lo más importante del Boletín Oficial(Primera Sección). 
 Aplica Web Scraping sobre las publicaciones del día, y las pasa por un LLM(GPT 3.5) para obtener una versión resumida de lo másimportante! :fire:
 
-## Lo importante del 2023-11-27
+## Lo importante del 2023-11-28
 
+
+### Decretos
+
+#### INGRESO PREVISIONAL
+
+El gobierno argentino otorgará un refuerzo de ingreso previsional de hasta $55,000 a los beneficiarios de prestaciones contributivas y no contributivas. El monto varía según los ingresos y no será susceptible de descuentos. Esta medida busca brindar apoyo económico a los ciudadanos y trabajadores promedio. #Argentina #IngresoPrevisional #ApoyoEconómico #Beneficiarios
+
+Importancia: 80
+
+Tags: economic, citizen, worker, 
+
+[Link a artículo completo](https://www.boletinoficial.gob.ar/detalleAviso/primera/299186/20231128)
+
+#### PLAN NACIONAL DE ACCIÓN SOBRE EMPRESAS Y DERECHOS HUMANOS 2023-2026
+
+Aprobado el PLAN NACIONAL DE ACCIÓN SOBRE EMPRESAS Y DERECHOS HUMANOS 2023-2026 en Argentina. Busca fortalecer políticas públicas y promover acciones para respetar y proteger los Derechos Humanos en actividades empresariales. Organismo coordinador: Ministerio de Relaciones Exteriores, Comercio Internacional y Culto. Vigencia hasta el 31/12/2026. #DerechosHumanos #Empresas #Argentina
+
+Importancia: 80
+
+Tags: economic, sustainable, citizen, worker, rights, 
+
+[Link a artículo completo](https://www.boletinoficial.gob.ar/detalleAviso/primera/299187/20231128?anexos=1)
+
+#### PLAN NACIONAL DE ACCIÓN SOBRE EMPRESAS Y DERECHOS HUMANOS 2023-2026
+
+Aprobado el PLAN NACIONAL DE ACCIÓN SOBRE EMPRESAS Y DERECHOS HUMANOS 2023-2026 en Argentina. Busca fortalecer políticas públicas y promover acciones para respetar y proteger los Derechos Humanos en actividades empresariales. Organismo coordinador: Ministerio de Relaciones Exteriores, Comercio Internacional y Culto. Vigencia hasta el 31/12/2026. #DerechosHumanos #Empresas #Argentina
+
+Importancia: 80
+
+Tags: economic, sustainable, citizen, worker, rights, 
+
+[Link a artículo completo](https://www.boletinoficial.gob.ar/detalleAviso/primera/299187/20231128)
 
 ### Resoluciones
 
-#### MINISTERIO DE AMBIENTE Y DESARROLLO SOSTENIBLE SECRETARÍA DE CONTROL Y MONITOREO AMBIENTAL
+#### MINISTERIO DE SALUD
 
-El texto jurídico del Boletín Oficial de Argentina aborda la gestión integral de residuos domiciliarios, promoviendo la economía circular y la protección del medio ambiente. También establece la jerarquía de opciones para su gestión y la implementación de buenas prácticas sostenibles en el Sector Público Nacional. #Residuos #MedioAmbiente #Sostenibilidad #Gestión
-
-Importancia: 80
-
-Tags: economic, sustainable, citizen, worker, rights, 
-
-[Link a artículo completo](https://www.boletinoficial.gob.ar/detalleAviso/primera/299124/20231127?anexos=1)
-
-#### MINISTERIO DE AMBIENTE Y DESARROLLO SOSTENIBLE SECRETARÍA DE CONTROL Y MONITOREO AMBIENTAL
-
-El texto jurídico del Boletín Oficial de Argentina aborda la gestión integral de residuos domiciliarios, promoviendo la economía circular y la protección del medio ambiente. Es relevante para el ciudadano común y el trabajador promedio, y trata sobre derechos primordiales. Puntuación: 80/100.
+Resolución prohíbe importación, distribución y comercialización de productos de tabaco calentado en Argentina. Cámara de Tabaco y Asociación de Plantadores reclaman violación de derechos económicos y propiedad. Informe técnico respalda medida por daños a la salud. #Tabaco #Salud #Derechos
 
 Importancia: 80
 
 Tags: economic, sustainable, citizen, worker, rights, 
 
-[Link a artículo completo](https://www.boletinoficial.gob.ar/detalleAviso/primera/299124/20231127)
-
-#### MINISTERIO DE TRABAJO, EMPLEO Y SEGURIDAD SOCIAL
-
-Se aprobó el Plan Nacional de Empleo y se reformuló la Comisión Tripartita de Formación Profesional y Continua y de Promoción del Empleo. El objetivo es promover el empleo, la formación y orientación profesional, y la protección a trabajadores desempleados. El Ministerio de Trabajo será la autoridad de aplicación y la Comisión Tripartita se encargará de diseñar políticas en formación profesional y empleo. #Empleo #FormaciónProfesional #Trabajadores #PlanNacional
-
-Importancia: 80
-
-Tags: economic, citizen, worker, rights, 
-
-[Link a artículo completo](https://www.boletinoficial.gob.ar/detalleAviso/primera/299136/20231127?anexos=1)
-
-#### MINISTERIO DE TRABAJO, EMPLEO Y SEGURIDAD SOCIAL
-
-Aprobado el Plan Nacional de Empleo y reformulación de la Comisión Tripartita de Formación Profesional y Continua y de Promoción del Empleo. Busca potenciar el crecimiento del empleo y la productividad. Comisión Tripartita integrada por representantes del Ministerio de Trabajo, empleadores y trabajadores. Promoción de formación profesional y actualización de competencias laborales. #Empleo #FormaciónProfesional #PromociónLaboral
-
-Importancia: 80
-
-Tags: economic, sustainable, citizen, worker, rights, 
-
-[Link a artículo completo](https://www.boletinoficial.gob.ar/detalleAviso/primera/299136/20231127)
+[Link a artículo completo](https://www.boletinoficial.gob.ar/detalleAviso/primera/299257/20231128)
